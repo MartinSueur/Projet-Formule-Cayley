@@ -1,6 +1,6 @@
 # Projet-Formule-Cayley
 All the code I wrote and used during the progress of the projet about Cayley Formula
-##Algorithms
+## Algorithms
 TrouverArbre.py is the python implementation of the finds all trees algorithm. It only works up to 6 vertices because the amount of trees in the list exceeds what my memory can manage.
 
 len.py is the python implementation of the finds all types algorithm. It works for any list of trees.
@@ -11,7 +11,7 @@ layoutCreator.py contains the AutoLayout() function that allows me to render eve
 
 serieFinder.py initialises the two lists i use to manage the time of the present5ne animation and present6ne animation, with respectively the lists u and v.
 
-##Animations
+## Animations
 
 presentFormule is an animation presenting the Cayley tree Formula, and the first values of the numbers of trees with n vertices.
 
